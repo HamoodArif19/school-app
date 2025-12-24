@@ -3,6 +3,7 @@ import pool from "../../../lib/db";
 import { v2 as cloudinary } from "cloudinary";
 
 export const config = {
+  
   api: {
     bodyParser: false,
   },
